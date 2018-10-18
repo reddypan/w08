@@ -1,0 +1,5 @@
+Why am I here at NWMSU? 
+I am a new student here at Northwest Missouri State University. I joined this university in August 2018 to pursue my Masters in Applied Computer Science.
+
+Introduction and Work Experience 
+I am from Hyderabad, India. I completed my under graduation from Computer Science stream. After completing my bachelors, I joined Tata Consultancy Services (TCS) as a Assistant System Engineer (ASE). I have a total work experience of 2 years where I worked predominantly in testing domain. I worked on manual as well as automation testing tools like Selenium, UFT and Protractor.
